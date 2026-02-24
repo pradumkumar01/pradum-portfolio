@@ -24,8 +24,7 @@ const greeting = {
   nickname: "",
   subTitle:
     "⚡Android Developer | Open Source Enthusiast | Dart | React | MySQL⚡",
-  resumeLink:
-    "/cv.pdf",
+  resumeLink: "/cv.pdf",
   portfolio_repository: "https://github.com/pradumkumar01/masterPortfolio",
   githubProfile: "https://github.com/pradumkumar01",
 };
@@ -292,7 +291,7 @@ const certifications = {
     {
       title: "Introduction to Flutter Course",
       subtitle: "November 2024",
-      logo_path: "google_logo.png",
+      logo_path: "flutter.png",
       certificate_link: "#",
       alt_name: "Flutter",
       color_code: "#02569B99",
@@ -300,7 +299,7 @@ const certifications = {
     {
       title: "Introduction to React Course",
       subtitle: "November 2024",
-      logo_path: "coursera_logo.png",
+      logo_path: "react.png",
       certificate_link: "#",
       alt_name: "React",
       color_code: "#61DAFB99",
@@ -351,7 +350,7 @@ const experience = {
           title: "App Developer Intern",
           company: "DigiQuest Consultancy Services Private Limited",
           company_url: "#",
-          logo_path: "coursera_logo.png",
+          logo_path: "digiquest.png",
           duration: "March 2025 - June 2025",
           location: "Remote",
           description:
@@ -367,7 +366,7 @@ const experience = {
           title: "Flutter Trainee",
           company: "SPI Pvt Ltd",
           company_url: "#",
-          logo_path: "github_logo.png",
+          logo_path: "spi.png",
           duration: "July 2024 - September 2024",
           location: "Remote",
           description:
