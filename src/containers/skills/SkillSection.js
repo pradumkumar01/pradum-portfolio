@@ -31,7 +31,7 @@ class SkillSection extends Component {
                   {/* <img
                     alt="Pradum is Analysing Data"
                     src={require(`../../assets/images/${skill.imagePath}`)}
-                  ></img> */}}
+                  ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>
               </Fade>

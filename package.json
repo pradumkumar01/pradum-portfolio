@@ -7,9 +7,9 @@
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
+    "dev": "vite",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
-    "dev" :"vite",
     "test": "react-scripts test"
   },
   "dependencies": {
