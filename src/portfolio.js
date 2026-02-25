@@ -325,7 +325,7 @@ const experience = {
           company_url: "#",
           logo_path: "google_logo.png",
           duration: "January 2026 - Current",
-          location: "Remote",
+          location: "Noida",
           description:
             "Working as a Flutter Developer, building cross-platform mobile applications with focus on UI/UX and performance optimization.",
           color: "#02569B",
@@ -336,7 +336,7 @@ const experience = {
           company_url: "#",
           logo_path: "microsoft_logo.png",
           duration: "July 2025 - December 2025",
-          location: "Remote",
+          location: "Gorakhpur",
           description:
             "Developed software solutions and contributed to various projects. Gained experience in full-stack development and system architecture.",
           color: "#D83B01",
@@ -352,7 +352,7 @@ const experience = {
           company_url: "#",
           logo_path: "digiquest.png",
           duration: "March 2025 - June 2025",
-          location: "Remote",
+          location: "Gorakhpur",
           description:
             "Interned as an App Developer, working on mobile application development using modern frameworks and best practices.",
           color: "#2A73CC",
@@ -368,7 +368,7 @@ const experience = {
           company_url: "#",
           logo_path: "spi.png",
           duration: "July 2024 - September 2024",
-          location: "Remote",
+          location: "Lucknow",
           description:
             "Trained in Flutter framework and Dart programming language. Developed Flutter applications with focus on mobile app development best practices and modern API integration techniques.",
           color: "#181717",
