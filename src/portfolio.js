@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
   resumeLink: "/cv.pdf",
-  portfolio_repository: "https://github.com/pradumkumar01/masterPortfolio",
+  portfolio_repository: "https://github.com/pradumkumar01/pradum-portfolio",
   githubProfile: "https://github.com/pradumkumar01",
 };
 
