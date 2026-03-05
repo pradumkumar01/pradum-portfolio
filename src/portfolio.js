@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Pradum Kumar Portfolio",
     type: "website",
-    url: "https://pradumkumar.com/",
+    url: "https://pradumkumar.in/",
   },
 };
 
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "PradumKumar",
   nickname: "",
   subTitle:
-    "⚡Android Developer | Open Source Enthusiast | Dart | React | MySQL⚡",
+    "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
   resumeLink: "/cv.pdf",
   portfolio_repository: "https://github.com/pradumkumar01/masterPortfolio",
   githubProfile: "https://github.com/pradumkumar01",
