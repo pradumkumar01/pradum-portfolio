@@ -22,8 +22,7 @@ const greeting = {
   title: "Pradum Kumar",
   logo_name: "PradumKumar",
   nickname: "",
-  subTitle:
-    "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
+  subTitle: "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
   resumeLink: "/cv.pdf",
   portfolio_repository: "https://github.com/pradumkumar01/pradum-portfolio",
   githubProfile: "https://github.com/pradumkumar01",
@@ -310,9 +309,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Training",
+  subtitle: "Work and Internship",
   description:
-    "I have gained practical experience in Flutter development, MERN stack, and open source contributions. I am passionate about learning new technologies and building innovative solutions.",
+    "Flutter Developer with 1+ year of hands-on experience developing cross-platform mobile applications using Flutter and Dart. Skilled in building responsive, high-performance UI, managing application state, and integrating APIs. Focused on delivering scalable, user-friendly applications with clean architecture and optimized performance.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -324,7 +323,7 @@ const experience = {
           company: "BringOn Digital",
           company_url: "#",
           logo_path: "google_logo.png",
-          duration: "January 2026 - Current",
+          duration: "February 2026 - Current",
           location: "Noida",
           description:
             "Working as a Flutter Developer, building cross-platform mobile applications with focus on UI/UX and performance optimization.",
@@ -335,35 +334,36 @@ const experience = {
           company: "BrniX Media",
           company_url: "#",
           logo_path: "microsoft_logo.png",
-          duration: "July 2025 - December 2025",
+          duration: "August 2025 - January 2026",
           location: "Gorakhpur",
           description:
             "Developed software solutions and contributed to various projects. Gained experience in full-stack development and system architecture.",
           color: "#D83B01",
         },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
         {
-          title: "App Developer Intern",
+          title: "App Developer",
           company: "DigiQuest Consultancy Services Private Limited",
           company_url: "#",
           logo_path: "digiquest.png",
-          duration: "March 2025 - June 2025",
+          duration: "Feb 2025 - July 2025",
           location: "Gorakhpur",
           description:
-            "Interned as an App Developer, working on mobile application development using modern frameworks and best practices.",
+            "As an App Developer, working on mobile application development using modern frameworks and best practices.",
           color: "#2A73CC",
         },
       ],
     },
+    // {
+    //   title: "Internships",
+    //   experiences: [
+
+    //   ],
+    // },
     {
-      title: "Training",
+      title: "Internships",
       experiences: [
         {
-          title: "Flutter Trainee",
+          title: "Flutter Intern",
           company: "SPI Pvt Ltd",
           company_url: "#",
           logo_path: "spi.png",
