@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "PradumKumar",
   nickname: "",
   subTitle: "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
-  resumeLink: "/cv.pdf",
+  resumeLink: "/assets/docs/Pradum_Kumar_Resume_ML.pdf",
   portfolio_repository: "https://github.com/pradumkumar01/pradum-portfolio",
   githubProfile: "https://github.com/pradumkumar01",
 };
