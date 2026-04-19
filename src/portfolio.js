@@ -309,7 +309,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work and Internship",
+  subtitle: "Work, Internship and Training",
   description:
     "Flutter Developer with 1+ year of hands-on experience developing cross-platform mobile applications using Flutter and Dart. Skilled in building responsive, high-performance UI, managing application state, and integrating APIs. Focused on delivering scalable, user-friendly applications with clean architecture and optimized performance.",
   header_image_path: "experience.svg",
@@ -323,7 +323,7 @@ const experience = {
           company: "BringOn Digital",
           company_url: "#",
           logo_path: "google_logo.png",
-          duration: "February 2026 - Current",
+          duration: "January 2026 - March 2026",
           location: "Noida",
           description:
             "Working as a Flutter Developer, building cross-platform mobile applications with focus on UI/UX and performance optimization.",
@@ -334,18 +334,23 @@ const experience = {
           company: "BrniX Media",
           company_url: "#",
           logo_path: "microsoft_logo.png",
-          duration: "August 2025 - January 2026",
+          duration: "July 2025 - December 2026",
           location: "Gorakhpur",
           description:
             "Developed software solutions and contributed to various projects. Gained experience in full-stack development and system architecture.",
           color: "#D83B01",
         },
+      ],
+    },
+    {
+      title: "Internships",
+      experiences: [
         {
           title: "App Developer",
           company: "DigiQuest Consultancy Services Private Limited",
           company_url: "#",
           logo_path: "digiquest.png",
-          duration: "Feb 2025 - July 2025",
+          duration: "March 2025 - July 2025",
           location: "Gorakhpur",
           description:
             "As an App Developer, working on mobile application development using modern frameworks and best practices.",
@@ -353,14 +358,8 @@ const experience = {
         },
       ],
     },
-    // {
-    //   title: "Internships",
-    //   experiences: [
-
-    //   ],
-    // },
     {
-      title: "Internships",
+      title: "Training",
       experiences: [
         {
           title: "Flutter Intern",
