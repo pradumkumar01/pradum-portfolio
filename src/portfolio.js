@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Pradum Kumar's Portfolio",
   description:
-    "⚡Android Developer | Open Source Enthusiast | Dart | React | MySQL⚡ Passionate about building innovative mobile and web applications.",
+    "⚡iOS Developer | Android Developer | Open Source Enthusiast | Dart | React | MySQL⚡ Passionate about building innovative mobile and web applications.",
   og: {
     title: "Pradum Kumar Portfolio",
     type: "website",
@@ -22,7 +22,8 @@ const greeting = {
   title: "Pradum Kumar",
   logo_name: "PradumKumar",
   nickname: "",
-  subTitle: "⚡Android Developer | Flutter | Dart | React | Google Admod⚡",
+  subTitle:
+    "⚡iOS Developer | Android Developer | Flutter | Dart | React | Google Admod⚡",
   resumeLink: "/cv.pdf",
   portfolio_repository: "https://github.com/pradumkumar01/pradum-portfolio",
   githubProfile: "https://github.com/pradumkumar01",
@@ -259,16 +260,16 @@ const degrees = {
   degrees: [
     {
       title: "Buddha Institute of Technology",
-      subtitle: "B.Tech",
+      subtitle: "B.Tech in Information Technology",
       logo_path: "iiitk_logo.png",
       alt_name: "Buddha Institute of Technology",
       duration: "2021 - 2025",
       descriptions: [
-        "⚡ Pursuing B.Tech degree with focus on software development",
-        "⚡ Strong foundation in programming languages and software engineering principles",
-        "⚡ Active participant in coding competitions and development projects",
+        "⚡ Successfully completed Bachelor of Technology (B.Tech) in Information Technology with Distinction",
+        "⚡ Developed a strong foundation in programming, software development, data structures, and software engineering",
+        "⚡ Applied technical knowledge through academic projects and practical development experience",
       ],
-      website_link: "https://www.bitmeerut.ac.in",
+      website_link: "https://www.bit.ac.in",
     },
     {
       title: "Surmount International School",
@@ -319,11 +320,33 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Software Developer",
+          company: "Findoc",
+          company_url: "#",
+          logo_path: "findoc.svg",
+          duration: "September 2026 - Current",
+          location: "DLF Cyber City, Gurugram",
+          description:
+            "Contributing to the development and enhancement of FinTech applications, focusing on trading platform features, responsive user interfaces, API integration, real-time market data, and application performance. Working on implementing financial technology solutions, debugging issues, optimizing application workflows, and delivering reliable, scalable, and user-friendly trading experiences.",
+          color: "#02569B",
+        },
+        {
+          title: "Flutter Developer",
+          company: "LDS Engineers Pvt Ltd",
+          company_url: "#",
+          logo_path: "lds.jpg",
+          duration: "April 2026 - August 2026",
+          location: "Noida",
+          description:
+            "Worked on Flutter application development, building user-friendly interfaces, integrating backend APIs, implementing application features, resolving bugs, and improving overall app performance and responsiveness.",
+          color: "#02569B",
+        },
+        {
           title: "Flutter Developer",
           company: "BringOn Digital",
           company_url: "#",
           logo_path: "google_logo.png",
-          duration: "February 2026 - Current",
+          duration: "January 2026 - March 2026",
           location: "Noida",
           description:
             "Working as a Flutter Developer, building cross-platform mobile applications with focus on UI/UX and performance optimization.",
@@ -334,22 +357,11 @@ const experience = {
           company: "BrniX Media",
           company_url: "#",
           logo_path: "microsoft_logo.png",
-          duration: "August 2025 - January 2026",
+          duration: "August 2025 - December 2025",
           location: "Gorakhpur",
           description:
             "Developed software solutions and contributed to various projects. Gained experience in full-stack development and system architecture.",
           color: "#D83B01",
-        },
-        {
-          title: "App Developer",
-          company: "DigiQuest Consultancy Services Private Limited",
-          company_url: "#",
-          logo_path: "digiquest.png",
-          duration: "Feb 2025 - July 2025",
-          location: "Gorakhpur",
-          description:
-            "As an App Developer, working on mobile application development using modern frameworks and best practices.",
-          color: "#2A73CC",
         },
       ],
     },
@@ -362,6 +374,17 @@ const experience = {
     {
       title: "Internships",
       experiences: [
+        {
+          title: "App Developer",
+          company: "DigiQuest Consultancy Services Private Limited",
+          company_url: "#",
+          logo_path: "digiquest.png",
+          duration: "Feb 2025 - July 2025",
+          location: "Gorakhpur",
+          description:
+            "As an App Developer, working on mobile application development using modern frameworks and best practices.",
+          color: "#2A73CC",
+        },
         {
           title: "Flutter Intern",
           company: "SPI Pvt Ltd",

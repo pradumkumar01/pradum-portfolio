@@ -6,7 +6,6 @@ import "./Resume.css";
 import myResumePdf from "../../assets/docs/Pradum_Kumar_Resume_ML.pdf";
 import { Document, Page, pdfjs } from "react-pdf";
 import Button from "../../components/button/Button";
-import { greeting } from "../../portfolio";
 import TopButton from "../../components/topButton/TopButton";
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
@@ -89,8 +88,8 @@ export default class ResumePage extends Component {
               <div className="download-btn">
                 <Button
                   text="📃 Download Resume"
-                  newTab={true}
-                  href={greeting.resumeLink}
+                  href={myResumePdf}
+                  download="Pradum_Kumar_Resume_ML.pdf"
                   theme={theme}
                 />
               </div>
@@ -188,7 +187,7 @@ export default class ResumePage extends Component {
             </div>
           </Fade>
         </div>
-        <Footer theme={theme} onToggle={this.props.onToggle}/>
+        <Footer theme={theme} onToggle={this.props.onToggle} />
         <TopButton theme={theme} />
       </div>
     );
